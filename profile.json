@@ -1,1 +1,1 @@
-worker: probot.js
+worker: node bot.js
